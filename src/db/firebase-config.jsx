@@ -5,12 +5,12 @@ try {
   app = getApp();
 } catch (error) {
   app = initializeApp({
-    apiKey: "AIzaSyD3J2vokrbQHyyXoTPGBnJIDmEuwmtjFjo",
-    authDomain: "lotificaciones-e3d64.firebaseapp.com",
-    projectId: "lotificaciones-e3d64",
-    storageBucket: "lotificaciones-e3d64.appspot.com",
-    messagingSenderId: "894093680084",
-    appId: "1:894093680084:web:0b094cab642cd145360a41"
+    apiKey: "AIzaSyDtIK2suXTMHrEZBdSV8apqan1rzCV22U0",
+    authDomain: "lotificaciones-3b3dc.firebaseapp.com",
+    projectId: "lotificaciones-3b3dc",
+    storageBucket: "lotificaciones-3b3dc.appspot.com",
+    messagingSenderId: "488096541206",
+    appId: "1:488096541206:web:de7d7baaf7cb23a6aa2337"
   })
 }
 
